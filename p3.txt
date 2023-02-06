@@ -1,0 +1,4 @@
+horizontal_flip=False at train samples because horizontal_flip=True in augmentation doesn't help training process
+3 output neurons because its a multiclass problem
+categorical_crossentropy as loss function' because its a multiclass problem
+vgg19 as pretrained network
